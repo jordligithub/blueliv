@@ -1,0 +1,5 @@
+-----------------------
+Test OK
+ExpectedResult: 4 2 S 0 4 W
+ObtainedResult: 4 2 S 0 4 W
+-----------------------

@@ -1,0 +1,46 @@
+[2016/03/24 16:23:01] [marsrover.MarsFunctions/readInputFile:61] created rover 0:3 3 N
+[2016/03/24 16:23:01] [marsrover.MarsFunctions/readInputFile:71] move rover 1:RMLMLLMM
+[2016/03/24 16:23:01] [marsrover.MarsFunctions/readInputFile:61] created rover 1:0 1 E
+[2016/03/24 16:23:01] [marsrover.MarsFunctions/readInputFile:71] move rover 2:MMLMMMLMMMM
+[2016/03/24 16:23:01] [marsrover.SquarePlateau/moveRover:122] N -> E
+[2016/03/24 16:23:01] [marsrover.SquarePlateau/moveRover:132] E 3 3 E -> 4 3 E allowed true
+[2016/03/24 16:23:01] [marsrover.SquarePlateau/moveRover:122] E -> N
+[2016/03/24 16:23:01] [marsrover.SquarePlateau/moveRover:132] N 4 3 N -> 4 4 N allowed true
+[2016/03/24 16:23:01] [marsrover.SquarePlateau/moveRover:122] N -> W
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:122] W -> S
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] S 4 4 S -> 4 3 S allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] S 4 3 S -> 4 2 S allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] E 0 1 E -> 1 1 E allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] E 1 1 E -> 2 1 E allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:122] E -> N
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] N 2 1 N -> 2 2 N allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] N 2 2 N -> 2 3 N allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] N 2 3 N -> 2 4 N allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:122] N -> W
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] W 2 4 W -> 1 4 W allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] W 1 4 W -> 0 4 W allowed true
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] W 0 4 W -> 0 4 W allowed false
+[2016/03/24 16:23:02] [marsrover.SquarePlateau/moveRover:132] W 0 4 W -> 0 4 W allowed false
+[2016/03/24 16:47:08] [marsrover.MarsFunctions/readInputFile:61] created rover 0:3 3 N
+[2016/03/24 16:47:08] [marsrover.MarsFunctions/readInputFile:71] move rover 1:RMLMLLMM
+[2016/03/24 16:47:08] [marsrover.MarsFunctions/readInputFile:61] created rover 1:0 1 E
+[2016/03/24 16:47:08] [marsrover.MarsFunctions/readInputFile:71] move rover 2:MMLMMMLMMMM
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:122] N -> E
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] E 3 3 E -> 4 3 E allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:122] E -> N
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] N 4 3 N -> 4 4 N allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:122] N -> W
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:122] W -> S
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] S 4 4 S -> 4 3 S allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] S 4 3 S -> 4 2 S allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] E 0 1 E -> 1 1 E allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] E 1 1 E -> 2 1 E allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:122] E -> N
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] N 2 1 N -> 2 2 N allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] N 2 2 N -> 2 3 N allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] N 2 3 N -> 2 4 N allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:122] N -> W
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] W 2 4 W -> 1 4 W allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] W 1 4 W -> 0 4 W allowed true
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] W 0 4 W -> 0 4 W allowed false
+[2016/03/24 16:47:08] [marsrover.SquarePlateau/moveRover:132] W 0 4 W -> 0 4 W allowed false

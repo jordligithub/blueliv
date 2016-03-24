@@ -1,0 +1,6 @@
+7 5
+3 3 N
+RMLMLLMM
+0 1 E
+MMLMMMLMMMM
+TestResultExected:4 2 S 0 4 W

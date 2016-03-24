@@ -1,0 +1,16 @@
+Use Case 2:Movements Calculation
+Initial State : the Plateau and Rovers have been created whit their movements defined
+Final State : the final position is calculated
+
+1.each character is read from the movements list
+	1.a.1 if there are more characters go to 2
+	1.b.1 if there aren't more characters go to 4
+2.if the character is R or L the new Rover's header is calculated (N,S,E,W)
+3.if the character is M it's is cheched if the movement is possible
+	3.a if the movement is allowed
+		3.a.1  the new Rover's position is updated
+		3.a.2 the old Rover's position is defined as not occupied in the Plateau and the new one as occupied
+		3.a.3 go back to 1
+	3.b if the movement isn't possible
+		3.b.1 go back to 1
+4.End

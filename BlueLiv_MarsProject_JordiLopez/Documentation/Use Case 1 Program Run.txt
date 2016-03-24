@@ -1,0 +1,10 @@
+Use Case 1:Program Run
+Initial State:the properties are loaded
+Final State:the output file is created
+
+1.the Input file is loaded
+2.the Plateau is created with the size read from the input file
+3.the Rovers are created and located in the positions defined in the input file
+4.for each Rover the movements are processed
+5.the result is written in the output file
+6.end
